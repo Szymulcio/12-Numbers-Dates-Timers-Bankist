@@ -1,0 +1,4 @@
+final/
+.prettierrc
+*.png
+!logo.png
